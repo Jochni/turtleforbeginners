@@ -35,6 +35,7 @@ This script uses Python's `turtle` module to create a graphical scene. The scrip
 To draw a full scene with clouds, a sun, and water, use the following:
 
 ```python
+from turtleforbeginners import *
 from turtle import *
 
 # Set up the turtle screen
