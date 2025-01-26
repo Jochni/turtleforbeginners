@@ -1,0 +1,10 @@
+LICENSE.txt
+setup.py
+turtleforbeginners/src/turtleforbeginners.egg-info/PKG-INFO
+turtleforbeginners/src/turtleforbeginners.egg-info/SOURCES.txt
+turtleforbeginners/src/turtleforbeginners.egg-info/dependency_links.txt
+turtleforbeginners/src/turtleforbeginners.egg-info/top_level.txt
+turtleforbeginners/src/turtleforbeginners.egg-info/PKG-INFO
+turtleforbeginners/src/turtleforbeginners.egg-info/SOURCES.txt
+turtleforbeginners/src/turtleforbeginners.egg-info/dependency_links.txt
+turtleforbeginners/src/turtleforbeginners.egg-info/top_level.txt
